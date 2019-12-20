@@ -21,6 +21,13 @@ _**N.B.** If currently use Nuxt's `config.env` option, fear not—`nuxt-env` inc
 ### Get Setup
 
 1. Install the dependency:
+
+```bash
+npm install nuxt-env
+```
+
+or if you use Yarn
+
 ```bash
 yarn add nuxt-env
 ```
